@@ -2,7 +2,8 @@
 
 ### Portscanner
 
-scan port range
+Scanning target ports
+
 Usage:
 
 1- Build

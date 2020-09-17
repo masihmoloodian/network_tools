@@ -19,6 +19,5 @@ go build ./portscanner.go
 
 Execture commands on target of evaluation
 
-soon
 
 
